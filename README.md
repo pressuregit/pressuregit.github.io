@@ -1,6 +1,6 @@
 demo展示
 
-1. js game-fly-pig  [demo地址](https://pressuregit.github.io/project/demo-flappy-pig/)
+1. js game-fly-pig  [demo地址](https://pressuregit.github.io/projects-show/demo-flappy-pig/)
 2. 仿百度智能输入控件-auto input[demo地址](https://pressuregit.github.io/projects-show/autoInput-Component/)
 3. 图片幻灯片效果-slideShow effects [demo地址](https://pressuregit.github.io/projects-show/imageZoom/)
 4. bootstrap-网站  [demo地址](https://pressuregit.github.io/projects-show/bootstrap-%E7%BD%91%E7%AB%99/)
