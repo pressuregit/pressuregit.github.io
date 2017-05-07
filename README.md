@@ -9,3 +9,4 @@ demo展示
 7. parking-note [demo地址](https://pressuregit.github.io/projects-show/parking-note/)
 8. 图片幻灯片效果-slideShow effects [demo地址](https://pressuregit.github.io/projects-show/slideSho-efects/)
 9. jquery shopping WebSite [demo地址](https://pressuregit.github.io/projects-show/jquery-website%20shopping/)
+10. 手机手势解锁（纯es6）[demo地址](https://pressuregit.github.io/projects-show/handlock)
